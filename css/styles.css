@@ -19,6 +19,10 @@
   color: white;
 }
 
+.above-project-text {
+  padding-top: 100px;
+}
+
 #above-project-text {
   color: white;
 }
@@ -46,6 +50,7 @@
   color: #ffffff;
   margin: auto;
   text-align: center;
+  font-size: x-small;
 }
 
 .top-left-panel {
