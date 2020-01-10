@@ -1,4 +1,16 @@
 #my-picture {
-  width: 25%;
-  height: 25%;
+  float: left;
+  width: 75%;
+  height: auto;
+}
+
+#pic-text {
+  margin: 0 10px 10px 0;
+  float: left;
+  font-size: 13px;
+}
+
+#top-header {
+  text-align: center;
+  text-shadow: #000000 1px 0 10px;
 }
