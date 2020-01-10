@@ -1,22 +1,33 @@
 #my-picture {
-  border-radius: 75%;
-  float: left;
-  width: 75%;
+  border-radius: 100%;
+  float: right;
+  width: auto;
   height: auto;
 }
 
-#pic-text {
-  margin: 0 10px 10px 0;
-  float: left;
-  font-size: 13px;
+#pic-panel-color {
+  color: #0D0C31;
+}
+.caption-text {
+  color: white;
+  margin: auto;
+  text-align: center;
 }
 
+#caption-text {
+
+}
 .top-left-panel {
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 #top-header {
+  color: #C7E3F2;
   text-align: center;
-  text-shadow: #000000 1px 0 10px;
+  text-shadow: #C7E3F2 1px 0 10px;
+}
+
+#background-color {
+  background-color: #0D0C31;
 }
