@@ -5,8 +5,9 @@
 
 #pic-box-model {
   margin: 6px;
-  border: 2px;
+  border: 2px solid #DEF0FE;
   padding: 4px;
+  background-color: #0D0C31;
 }
 
 #about-me-body {
@@ -20,7 +21,10 @@
 }
 
 #my-picture {
-  border-radius: 100px;
+  border-bottom-left-radius: 75px;
+  border-bottom-right-radius: 75px;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
   float: right;
   width: auto;
   height: auto;
@@ -59,7 +63,6 @@
 #top-header {
   color: #C7E3F2;
   text-align: center;
-  text-shadow: #C7E3F2 1px 0 10px;
 }
 
 #background-color {
