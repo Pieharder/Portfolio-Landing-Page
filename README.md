@@ -6,7 +6,7 @@
 
 ## Description
 
-_Here in contains the coding portfolio of Geoff Goetz. You will find a number of projects and works Geoff has contributed too as well as worked solo on to demonstrate his skill and abilities._
+_Here in contains the coding portfolio of Geoff Goetz. You will find a number of projects and works Geoff has contributed too as well as worked solo on to demonstrate his skill and abilities.This page can viewed at this<a href="https://pieharder.github.io/Portfolio-Landing-Page/">link.</a>_
 
 ## Setup/Installation Requirements
 
