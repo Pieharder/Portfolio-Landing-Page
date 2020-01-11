@@ -20,7 +20,8 @@
 }
 
 .above-project-text {
-  padding-top: 100px;
+padding-bottom: 50px;
+
 }
 
 #above-project-text {
@@ -32,15 +33,15 @@
 }
 
 #project-list1 {
-  background-color: #DEFEEB;
+  background-color: #ECFDF3;
 }
 
 #project-list2 {
-  background-color: #DEFEEB;
+  background-color: #ECFDF3;
 }
 
 #project-list3 {
-  background-color: #DEFEEB;
+  background-color: #ECFDF3;
 }
 
 #pic-panel-color {
