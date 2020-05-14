@@ -6,8 +6,8 @@
 }
 
 #my-picture {
-  border-bottom-left-radius: 75px;
-  border-bottom-right-radius: 75px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;
   float: right;
@@ -46,12 +46,6 @@ padding-bottom: 50px;
 
 #pic-panel-color {
   color: #0D0C31;
-}
-.caption-text {
-  color: #ffffff;
-  margin: auto;
-  text-align: center;
-  font-size: x-small;
 }
 
 .top-left-panel {
